@@ -1,0 +1,49 @@
+{
+  "families": {
+    "s181031@gmail.com": {
+      "email": "s181031@gmail.com",
+      "username": "p181031",
+      "password": "1A01p1031",
+      "students": [
+        {
+          "studentID": "s181031",
+          "studentName": "AU YEANG YI JANELLE"
+        }
+      ]
+    },
+    "s181076@gmail.com": {
+      "email": "s181076@gmail.com",
+      "username": "p181075",
+      "password": "1A02p1075",
+      "students": [
+        {
+          "studentID": "s181075",
+          "studentName": "CHAN KAY JING"
+        },
+        {
+          "studentID": "s181076",
+          "studentName": "CHAN KAY BING"
+        }
+      ]
+    },
+    "s181103@gmail.com": {
+      "email": "s181103@gmail.com",
+      "username": "p181101",
+      "password": "1A03p1101",
+      "students": [
+        {
+          "studentID": "s181101",
+          "studentName": "CHAN SUM TUNG"
+        },
+        {
+          "studentID": "s181102",
+          "studentName": "CHAN SUM TING"
+        },
+        {
+          "studentID": "s181103",
+          "studentName": "CHAN SUM TANG"
+        }
+      ]
+    }
+  }
+}
